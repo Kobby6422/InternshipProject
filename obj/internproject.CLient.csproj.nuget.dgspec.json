@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KOBBY\\Desktop\\internproject\\internproject.Client\\internproject.CLient.csproj": {}
+    "/home/nathan/Projects-codes/blazor(c#)-projects/InternshipProject/internproject.CLient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KOBBY\\Desktop\\internproject\\internproject.Client\\internproject.CLient.csproj": {
+    "/home/nathan/Projects-codes/blazor(c#)-projects/InternshipProject/internproject.CLient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KOBBY\\Desktop\\internproject\\internproject.Client\\internproject.CLient.csproj",
+        "projectUniqueName": "/home/nathan/Projects-codes/blazor(c#)-projects/InternshipProject/internproject.CLient.csproj",
         "projectName": "internproject.CLient",
-        "projectPath": "C:\\Users\\KOBBY\\Desktop\\internproject\\internproject.Client\\internproject.CLient.csproj",
-        "packagesPath": "C:\\Users\\KOBBY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KOBBY\\Desktop\\internproject\\internproject.Client\\obj\\",
+        "projectPath": "/home/nathan/Projects-codes/blazor(c#)-projects/InternshipProject/internproject.CLient.csproj",
+        "packagesPath": "/home/nathan/.nuget/packages/",
+        "outputPath": "/home/nathan/Projects-codes/blazor(c#)-projects/InternshipProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KOBBY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/nathan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -61,8 +61,12 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.7, 7.0.7]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.8, 7.0.8]"
+              "version": "[7.0.7, 7.0.7]"
             }
           ],
           "frameworkReferences": {
@@ -70,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.107/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
