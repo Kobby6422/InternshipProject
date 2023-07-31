@@ -1,0 +1,52 @@
+<!-- Sidenav -->
+<nav id="sidenav-1" class="sidenav" data-mdb-hidden="true" 
+    style="background: rgba(255, 255, 255, 0.2); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); 
+    backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); 
+    border: 1px solid rgba(255, 255, 255, 0.3);">
+    <div>
+        <p style="font-size: 25px; text-align: center; font-weight: 700;">
+            <Logo />
+        </p>
+    </div>
+    <ul class="sidenav-menu">
+        <li class="sidenav-item">
+            <a class="sidenav-link">
+                <i class="fa-solid fa-house"></i><span style="color: white; font-weight: 500; font-size: 21px; margin-left: 15px;">Dashboard</span></a>
+        </li>
+        <li class="sidenav-item">
+            <a class="sidenav-link"><i class="fa-solid fa-calendar-days"></i><span style="color: white; font-weight: 500; font-size: 21px; margin-left: 15px;e">Agenda</span></a>
+            <ul class="sidenav-collapse show">
+                <li class="sidenav-item">
+                    <a class="sidenav-link"><span style="color: white; font-size: 15px;">Appointments</span></a>
+                </li>
+                <li class="sidenav-item">
+                    <a class="sidenav-link"><span style="color: white; font-size: 15px;">Dead Lines</span></a>
+                </li>
+            </ul>
+        </li>
+        <li class="sidenav-item">
+            <a class="sidenav-link"><i class="fa-solid fa-list-check"></i><span style="color: white; font-size: 21px; margin-left: 15px;">Tasks</span></a>
+            <ul class="sidenav-collapse">
+                <li class="sidenav-item">
+                    <a class="sidenav-link"><span style="color: white; font-size: 15px;">Set Tasks</span></a>
+                </li>
+                <li class="sidenav-item">
+                    <a class="sidenav-link"><span style="color: white; font-size: 15px;">Your Priorities</span></a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="sidenav-item">
+            <a class="sidenav-link text-light"><i class="fa-solid fa-bell"></i><span class="badge rounded-pill badge-notification bg-danger">9</span></a>
+            
+        </li>
+    </ul>
+</nav>
+<!-- Sidenav -->
+
+<!-- Toggler -->
+<button data-mdb-toggle="sidenav" data-mdb-target="#sidenav-1" class="btn position-absolute" aria-controls="#sidenav-1"
+    aria-haspopup="true" style="top: 1rem; left: 1rem; background-color: #5e9693;">
+    <i class="fas fa-bars"></i>
+</button>
+<!-- Toggler -->

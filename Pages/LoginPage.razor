@@ -1,0 +1,60 @@
+﻿@page "/login"
+
+<PageTitle>Log in</PageTitle>
+
+
+<div class="container d-flex flex-column justify-content-center p-2 mt-5" style=" width:468px;">
+    <div class="p-2 d-flex justify-content-center">
+        <h2>
+            Log in
+        </h2>
+    </div>
+    <div class="d-flex justify-content-center p-2 mt-4" >
+        <a href="#">
+            <button class="btn">
+                log in with Google
+            </button>
+        </a>
+    </div>
+    <div class="d-flex justify-content-center p-2 mt-2">
+            <a class="text-reset" style="color: rgb(138, 148, 153) !important; text-decoration: underline;" href="#">
+                more services
+            </a>
+    </div>
+    <div class="d-flex justify-content-center p-2 mt-3" >
+            <span class="fs-5 display-6 text-muted">or with your Meister account</span>
+    </div>
+    <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center flex-column p-2 mt-4" style=" width: 265px !important;">
+
+            <div class="form-outline d-flex justify-content-center rounded-3" style="border: 1px solid lightblue;">
+                <input class="form-control p-2" id="formControlReadonly" type="email" aria-label="readonly input example" 
+                    style="width: 265px !important;"/> 
+                        <label class="form-label" style="text-align: center; font-size: 14px;" for="formControlReadonly">Email or Username</label>
+            </div>
+
+            <div class="form-outline d-flex justify-content-center rounded-3 mt-4" style="border: 1px solid lightblue;">
+                <input class="form-control p-2" id="formControlReadonly" type="password" aria-label="readonly input example" 
+                    style="width: 265px !important;"/> 
+                        <label class="form-label" style="text-align: center; font-size: 14px;" for="formControlReadonly">Password</label>
+            </div>
+        </div>
+    </div>
+    
+    <div class="d-flex justify-content-center mt-5">
+            <a href="/Dashboard">
+                <button class="btn text-light bg-primary" style="width: 265px;">
+                    Log in
+                </button>
+            </a>
+    </div>
+    <div class="d-flex justify-content-center mt-3">
+        <a href="#" style="text-decoration: underline;">i already have an account</a>
+    </div>
+    
+</div>
+<div class=" d-flex justify-content-center position-absolute" style="right: 15px; top: 10px;">
+    <a href="signin" style="text-decoration: none;">
+        Sign in
+    </a>
+</div>

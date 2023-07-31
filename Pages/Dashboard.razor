@@ -1,0 +1,89 @@
+@page "/dashboard"
+<title>dashboard</title>
+
+
+<body>
+    <header>
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top mask-custom shadow-0"
+            style="height: 60px;padding-left: 24px;padding-right: 24px; left: 150px !important;">
+            <div class="container">
+                <a class="navbar-brand" href="#!"><span style="color: #5e9693;">Task</span><span
+                        style="color: #fff;">King</span></a>
+                <button class="navbar-toggler" type="button" data-mdb-toggle="collapse"
+                    data-mdb-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#!">Offer</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#!">Features</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#!">Portfolio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#!">Reference</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#!">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#!">Team</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#!">Contact</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav d-flex flex-row">
+                        <li class="nav-item me-3 me-lg-0">
+                            <a class="nav-link" href="#!">
+                                <i class="fas fa-shopping-cart"></i>
+                            </a>
+                        </li>
+                        <li class="nav-item me-3 me-lg-0">
+                            <a class="nav-link" href="#!">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li class="nav-item me-3 me-lg-0">
+                            <a class="nav-link" href="#!">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Navbar -->
+
+        <!--Section: Design Block-->
+        <section>
+            <!-- Intro -->
+            <div id="intro" class="bg-image vh-100" style="
+            background-image: url('Nature 3.jpg'); object-fit: contain;
+            ">
+            @* dropdown *@
+            <div class="dropdown d-flex justify-content-end" style=" width: 100%; position: absolute; top: 8rem; right: 4rem">
+                <Dropdown />
+            </div>
+                <SideBar />
+            <div style="position: absolute; bottom: 2rem; left: 2rem;">
+                <TimeAndDate />
+            </div>
+            <div>
+                <NavigationFoot />
+            </div>
+            </div>
+
+            <!-- Intro -->
+        </section>
+        <!--Section: Design Block-->
+    </header>
+
+
+</body>

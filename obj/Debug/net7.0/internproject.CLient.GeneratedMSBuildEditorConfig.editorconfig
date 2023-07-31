@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = internproject.CLient
+build_property.RootNamespace = internproject.CLient
+build_property.ProjectDir = C:\Users\KOBBY\Desktop\internproject\internproject.Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\KOBBY\Desktop\internproject\internproject.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Pages/EmailVerication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1haWxWZXJpY2F0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Pages/EmailVerify.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1haWxWZXJpZnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Pages/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Pages/SigninPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbmluUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Pages/TeamUp.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhbVVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Shared/Dropdown.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERyb3Bkb3duLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Shared/EmailVerificationComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtYWlsVmVyaWZpY2F0aW9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Shared/Logo.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Shared/NavBar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdkJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Shared/NavigationFoot.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdmlnYXRpb25Gb290LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Shared/SideBar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNpZGVCYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Shared/TimeAndDate.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRpbWVBbmREYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wsgzn5wn49
+
+[C:/Users/KOBBY/Desktop/internproject/internproject.Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-56y11dhjyf
